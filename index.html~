@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Zach's Web Server</title>
+  </head>
+  <body>
+    <h1>My First Web Page</h1>
+    <h2>About Me</h2>
+    <p>Hi, my name is Zachary Young. I am currently enrolled at BYU and am planning on studying Computer Science.
+I'm currently in both a web development and data structure classes that are allowing me to pursue my 
+goal to work in the Computer Science field. Although I am still new to the process, I am excited to continue to learn
+and improve on the foundation I have built from my first experiences with CS.</p>
+    <h2>Previous Projects</h2>
+    <ol>
+      <li>Plinko Project</li> 
+      <li> Music Playlists with Classes</li>
+      <li> Pizza Lab</li>
+    </ol>
+    <h2>Previous Work Experience</h2>
+    <p>I do not currently have a work history in CS as I am still new to programming, but plan to find a low-level job as I am going to school that
+will help me gain valuable experience.</p>
+    <h2>How to Contact Me</h2>
+    <p>If you would like to contact me, there is a link below you can click to get in touch.</p>
+    <a href="https://github.com/zyoung55>https://github.com/zyoung55">A link to my github</a>
+</body>
+</html>
+<h1>
